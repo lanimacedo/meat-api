@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "restify": "6.3.4"
+    "nodemon": "^2.0.2",
+    "restify": "^8.5.1",
+    "swagger": "^0.7.5",
+    "swagger-editor": "^3.8.0"
   },
   "devDependencies": {
     "@types/restify": "5.0.6"
